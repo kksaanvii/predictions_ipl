@@ -32,9 +32,15 @@ Dataset Description
 • total: Total runs scored by batting team at the end of first innings.
 
 Algorithms Used
+
 Decision Tree Regressor
+
 Linear Regression
+
 Random Forest Regression
+
 Lasso Regression
+
 Support Vector Machine Regression
+
 Neural Network Regression
